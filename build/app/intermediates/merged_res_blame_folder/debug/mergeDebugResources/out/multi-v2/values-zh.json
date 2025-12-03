@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.binpack_residents.app-mergeDebugResources-68:/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/Users/dev_env/.gradle/caches/8.9/transforms/f836fbb6be02eb9a04f9e2b89847fc53/transformed/jetified-ucrop-2.2.10/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,97,151,205,252,296",
+                        "endColumns": "41,53,53,46,43,42",
+                        "endOffsets": "92,146,200,247,291,334"
+                    }
+                }
+            ]
+        }
+    ]
+}
